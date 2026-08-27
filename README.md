@@ -1,2 +1,3 @@
-wanderbricks-capstone-project
-End-to-end SQL analytics project built in Databricks using the Wanderbricks dataset, covering business analysis from data exploration to advanced SQL insights.
+🏠 Wanderbricks — End-to-End SQL Data Analytics Project
+
+A real-world SQL analytics project built in Databricks to explore property listings, users, bookings, cities, hosts, pricing, and business performance using the Wanderbricks dataset.
